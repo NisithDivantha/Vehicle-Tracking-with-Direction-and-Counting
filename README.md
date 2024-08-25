@@ -1,6 +1,14 @@
 # Vehicle-Tracking-and-Counting 🚗
 This project involves tracking and counting vehicles in a video using the SORT (Simple Online and Realtime Tracking) algorithm, color histogram features for appearance matching, and OpenCV for video processing and display. In this project I detect the direction of each vehicle and count the number of vehicles that goes in each dierection. This project was undertaken to gain hands-on experience in computer vision.
 
+
+
+https://github.com/user-attachments/assets/7e9861b4-20dc-4b7d-91a2-a591616b1ca6
+
+
+
+
+
 ## Features
 
 - Vehicle detection using pre-recorded detection data.
